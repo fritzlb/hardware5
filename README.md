@@ -10,3 +10,8 @@ GND (blau)
 11  
 12  
 13  
+
+# Software
+Leicht abgeänderte Version von strandtest, einem Beispeilcode der Adafruit Neopixel Library.  
+Fuses:  
+Taktfrequenz 8MHz intern, kein BOD
